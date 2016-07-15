@@ -1,0 +1,431 @@
+{
+  "ADWD": [
+
+    {
+      "pov": "Daenerys",
+      "numeral": "I",
+      "summary": "The Sons of the Harpy oppose Dany's rule. Long lines of petitioners await an audience with her, and one man brings the burnt bones of his child."
+    },
+
+    {
+      "pov": "Daenerys",
+      "numeral": "II",
+      "summary": "Sons of the Harpy commit more murders. Quaithe gives Dany a prophecy. Dany has chained Rhaegal and Viserion, but Drogon escaped."
+    },
+
+    {
+      "pov": "Daenerys",
+      "numeral": "III",
+      "summary": "Xaro Xhoan Daxos is hosted in Mereen, he offers 13 ships if she leaves and tells her the warlocks are against her. Dany refuses to help Astapor, Qarth decalres war."
+    },
+
+    {
+      "pov": "Daenerys",
+      "numeral": "IV",
+      "summary": "The Green Grace suggests Dany marries Hizdahr. Daario returns but angers her, and she sends him away."
+    },
+
+    {
+      "pov": "Daenerys",
+      "numeral": "V",
+      "summary": "Enemy ships plague Mereen's harbor. Hizdahr is effective in stopping the Harpy's murders. Dany learns of Astapor's fate."
+    },
+
+    {
+      "pov": "Daenerys",
+      "numeral": "VI",
+      "summary": "Daenerys visits the Astapori outside Mereen, many are sick with the bloody flux. Yunkai marches on Mereen."
+    },
+
+    {
+      "pov": "Daenerys",
+      "numeral": "VII",
+      "summary": "Quentyn and his party reveal themselves and the marraige pact to Dany. Dany refuses."
+    },
+
+    {
+      "pov": "Daenerys",
+      "numeral": "VIII",
+      "summary": "Yunkai seiges Mereen and holds a slave trade outside its gates. Yunkai'i sellswords, now including Brown Ben Plumm, exchange hostages. Dany shows Quentyn her dragons."
+    },
+
+    {
+      "pov": "Daenerys",
+      "numeral": "IX",
+      "summary": "Mereen fighting pits are reopened. Dany saves Tyrion from lions. Drogon comes to the fighting pit and flies off with Dany."
+    },
+
+    {
+      "pov": "Daenerys",
+      "numeral": "X",
+      "summary": "Drogon has taken Daenerys to the Dothraki sea, where she has visions reminding her of Fire and BLood. Khal Jhaqo finds her."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "I",
+      "summary" : "Tyrion is crossing the narrow sea, haunted by thoughts of kinslaying and Tysha. He takes up residence with Illyrio."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "II",
+      "summary" : "Illyrio smuggles Tyrion out of Pentos and tells him about Griff's company and their plan to meet Daenerys in Volantis. Tyrion is suspicious of Illyrio."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "III",
+      "summary" : "Tyrion leaves with Duck and Haldon to meet Griff. Tyrion suspects Griff is more than he seems."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "IV",
+      "summary" : "Tyrion sees Septa Lemore's stretch marks. Tyrion plays cyvasse with Haldon and wins information."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "V",
+      "summary" : "The Shy Maid continues up the Rhoyne. Tyrion reveals Griff and Young Griff's identity as they are attacked by stone men."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "VI",
+      "summary" : "Tyrion awakes, learning that Jon Connington saved him from drowning. Aegon tells the story of how Varys saved him. Tyrion plants doubts in Aegon's mind and convinces him to head west. Jorah kidnaps Tyrion."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "VII",
+      "summary" : "Tyrion and Jorah meet the widow of the waterfront. Penny attacks Tyrion. They take the Selaesori Qhoran, since Benorro predicted it will not reach Qarth."
+    },
+
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "VIII",
+      "summary" : "Tyrion meets Moqorro and befriends Penny. They pass the Doom of Valyria and Moqorro sees many people coming for Dany."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "IX",
+      "summary" : "Tyrion and Penny joust to lift the ships moods. A huge storm tears the ship apart, Moqorro is lost, and a slaver rescues the wreck after 19 days."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "X",
+      "summary" : "Tyrion and Penny are sold to Yazzan zo Qaggaz, Jorah beaten nearly to death. Tyrion beats Brown Penn Plum in cyvasse."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "XI",
+      "summary" : "Yezzan is dying of the bloody flux. Tyrion learns they meant to set lions on him and Penny. He plays cyvasse with Brown Pen Plumm and joins the second sons."
+    },
+
+    {
+      "pov" : "Tyrion",
+      "numeral" : "XII",
+      "summary" : "Tyrion joins the Second Sons at high price. Tyrion and Jorah plot to return the Second Sons to Daenerys."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "I",
+      "summary" : "Jon's wolf dreams sense Shaggydog, Summer, and Nymeria. King Stannis makes more demands. Melisandre warns Jon of daggers in the dark."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "II",
+      "summary" : "Jon trades Gilly's babe for Mance's and sends Sam to Oldtown. Slynt refuses to go to Greywater. Jon beheads him."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "III",
+      "summary" : "Melisandre burns Mance and the Horn of Joramun. Wildlings are let through the wall. Bowen Marsha and others believe Jon offers too much to Stannis."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "IV",
+      "summary" : "Food is low at the Night's Watch. Stannis plans to attack the Dreadfort. Jon convinces him to take the Mountain Clans. Jon refuses Winterfell."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "V",
+      "summary" : "Stannis leaves Castle Black. Some wildlings join the Night's Watch and receive food."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "VI",
+      "summary" : "Jon sends Alister Thorne on a ranging. He and Rattleshirt fight, with Rattleshirt winning. A raven says Arya will marry Ramsay Bolton, Melisandre gives more predictions."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "VII",
+      "summary" : "Only a few wildlings say their vows. Stannis has taken Deepwood Motte. Jon wonders if Arya can be saved."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "VIII",
+      "summary" : "Jon sends Val to treat with Tormund. Bowen Marsh, Othell Yarwyck, and Septon Cellador voice misgivings about the wildlings. Jon learns the wildlings have gone to Hardhome."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "IX",
+      "summary" : "Queen Selyse and her company arrive at Castle Black. Tycho of the Iron Bank speaks with Jon and gets ships for Hardhome. "
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "X",
+      "summary" : "Melisandre weds Alys Karstark and Sigorn. Jon warns Stannis of Arnolf Karstark's treachery. Val returns with Tormund."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "XI",
+      "summary" : "Jon lets more wildlings through the gate and demands 100 boys as hostages. Val is disgusted with Shireen's greyscale."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "XII",
+      "summary" : "Tormund reveals the Horn of Joramun was fake. Jon retrains Ghost after acting up around other warg's animals. Cotter Pyke sends for help at Hardhome, writing of death things."
+    },
+
+    {
+      "pov" : "Jon",
+      "numeral" : "XIII",
+      "summary" : "Jon wants to save the men at Hardhome but receives a letter from Ramsay Bolton. Jon sends the Night's Watch with Tormund to Hardhome and plans to go to Winterfell alone. He is abushed and repeatedly stabbed by his brothers, for the Watch."
+    },
+
+    {
+      "pov" : "Bran",
+      "numeral" : "I",
+      "summary" : "Bran and company are led through the Haunted Forest by Coldhands. Through Summer, Bran sees killed Night Watch Deserters, killed by Coldhands as foes. They learn he is dead."
+    },
+
+    {
+      "pov" : "Bran",
+      "numeral" : "II",
+      "summary" : "Bran reaches the hill of the cave and they are assaulted by wights. He awakes to a child of the forest who takes him to the three eyed crow."
+    },
+
+    {
+      "pov" : "Bran",
+      "numeral" : "III",
+      "summary" : "Jojen is falling ill and Bran is warging into ravens. Bran eats weirwood paste and enters Winterfell's heart tree."
+    },
+
+    {
+      "pov" : "Quentyn",
+      "numeral" : "I",
+      "summary" : "Quentyn is in Volantis, trying to get passage to Mereen. No ships will risk entering war. The Windblown are recruiting soldiers."
+    },
+
+    {
+      "pov" : "Quentyn",
+      "numeral" : "II",
+      "summary" : "Quentyn and his men join the Windblown, and fight against unblooded Unsullied in Astapor. The Tattered Prince sends him to Mereen to treat with Dany."
+    },
+
+    {
+      "pov" : "Quentyn",
+      "numeral" : "III",
+      "summary" : "Quentyn debates returning to Dorne after Daenerys flies off. He treats with the Tattered Prince and offers him Pentos."
+    },
+
+    {
+      "pov" : "Quentyn",
+      "numeral" : "IV",
+      "summary" : "Quentyn tries to steal the dragons, attempting to dominate Viserion. Rhaegal burns him."
+    },
+
+    {
+      "pov" : "Davos",
+      "numeral" : "I",
+      "summary" : "Davos is on Sweetsister and given to Godric Borrell. He learns that Freys have reached White Harbor. Godric spares Davos when Davos swears his secrecy."
+    },
+
+    {
+      "pov" : "Davos",
+      "numeral" : "II",
+      "summary" : "Davos arrives at White Harbor and learns that the Frey's have arrived with marriage proposals, and rumors of Daenerys."
+    },
+
+    {
+      "pov" : "Davos",
+      "numeral" : "III",
+      "summary" : "Davos is kept in a well furnished chamber. He treats with Wyman Manderly at Court and is rebuked by Freys, but defended by Wylla. Lord Manderly orders Davos executed and he is brought to prison."
+    },
+
+    {
+      "pov" : "Davos",
+      "numeral" : "IV",
+      "summary" : "Robert Glover fetches Davos and secretly brings him to Lord Manderly. Manderly explains he must seem loyal in front of the Freys, but the North Remembers. He sends Davos to Skagos to fetch Rickon."
+    },
+
+    {
+      "pov" : "Reek",
+      "numeral" : "I",
+      "summary" : "Reek is brought before Ramsay Bolton by Big Walder and Little Walder Frey. Arnolf Karstark recognizes him as Theon."
+    },
+
+    {
+      "pov" : "Reek",
+      "numeral" : "II",
+      "summary" : "Reek must pose as Theon to get the Ironborn at Moat Cailin to surrender, which they do before being murdered. He sees that Arya Stark is actually Jeyne Poole."
+    },
+
+    {
+      "pov" : "Reek",
+      "numeral" : "III",
+      "summary" : "Theon hears Roose and Ramsay discuss the Stark boys and Roose chides Ramsay for his behavior. Roose takes him and tells him the story of how he fathered Ramsay."
+    },
+
+    {
+      "pov" : "The Prince of Winterfell",
+      "numeral" : "I",
+      "summary" : "Theon tells Jeyne she must always be Arya. Ramsay marries her as Abel and six women perform. Frey pies."
+    },
+
+    {
+      "pov" : "The Turncloak",
+      "numeral" : "I",
+      "summary" : "Theon avoids the bard's women. Lady Dustin speaks of her past with the Starks."
+    },
+
+    {
+      "pov" : "A Ghost in Winterfell",
+      "numeral" : "I",
+      "summary" : "A string of murders in Winterfell seeds suspicion in all the houses. The women come again to Theon at the godswood."
+    },
+
+    {
+      "pov" : "Theon",
+      "numeral" : "I",
+      "summary" : "Theon and the spearwives plan an escape. Roose sends the Freys and Maderlys out to Stannis amid rising tension. Theon jumps over the battlements with Jeyne."
+    },
+
+    {
+      "pov" : "The Lost Lord",
+      "numeral" : "I",
+      "summary" : "Jon Connington and Aegon persuade the Golden Company to switch sides. He is infected with greyscale."
+    },
+
+    {
+      "pov" : "The Griffin Reborn",
+      "numeral" : "I",
+      "summary" : "Jon and the Golden Company have taken Griffin's Roost. He remembers Rhaegar and how Aerys took his land and titles. They plan to march on Storm's End."
+    },
+
+    {
+      "pov" : "The Wayward Bride",
+      "numeral" : "I",
+      "summary" : "Asha holds Deepwood Motte. Asha tries to flee to their ships, but is defeated by men wearing shrubs like trees."
+    },
+
+    {
+      "pov" : "The King's Prize",
+      "numeral" : "I",
+      "summary" : "Asha is chained to a baggage train under guard by Alysane Mormont. Stannis's men are starving and stuck in the snow."
+    },
+
+    {
+      "pov" : "The Sacrifice",
+      "numeral" : "I",
+      "summary" : "Provisions in Stannis's army are running low. Riders arrive including Tycho, Jeyne, and Theon, whom she does not recognize."
+    },
+
+    {
+      "pov" : "Jaime",
+      "numeral" : "I",
+      "summary" : "Jaime resolves the seige at Raventree with Tytos Blackwood. Brienne of Tarth finds him and tells him he must come with her to rescue Sansa, or the Hound will kill her."
+    },
+
+    {
+      "pov" : "The Watcher",
+      "numeral" : "I",
+      "summary" : "Balon Swann delivers Gregor Clegane's head. He hears Doran explain to the Sand Snakes the Dornish Master Plan."
+    },
+
+    {
+      "pov" : "The Iron Suitor",
+      "numeral" : "I",
+      "summary" : "Victarian is wounded and on his way to Daenerys with the Dragonbinder horn. He finds Moqorro washed from the wreck and allows him to heal him."
+    },
+
+    {
+      "pov" : "Victarion",
+      "numeral" : "I",
+      "summary" : "Moqorro has a strong presence on the ship, his visions let them capture and sacrifice many ships along the way."
+    },
+
+    {
+      "pov" : "Cersei",
+      "numeral" : "I",
+      "summary" : "Cersei is still a prisoner, she admits to her affairs. Kevan visits her and she decides to appoint a new Kingsguard."
+    },
+
+    {
+      "pov" : "Cersei",
+      "numeral" : "II",
+      "summary" : "Cersei completes her walk of shame, remembering Joffrey and her father and Maggy the Frog. Ser Robert Strong picks her up and carries her."
+    },
+
+    {
+      "pov" : "The Blind Girl",
+      "numeral" : "I",
+      "summary" : "Arya is now Blind Beth and learns to use her other senses. She uses a cat's eyes to defend the kindly man."
+    },
+
+    {
+      "pov" : "Davos",
+      "numeral" : "I",
+      "summary" : "The Faceless Men gather in a meeting. Arya gets a new face and has nightmares. She kills her target using a poisoned coin, and she becomes an acolyte. She leaves to apprentice with Izembaro."
+    },
+
+    {
+      "pov" : "The Queensguard",
+      "numeral" : "I",
+      "summary" : "Dany is still missing, so Ser Barristan is ousted by Hizdahr. Barristan and the Shavepate conspire to overthrow Hizdahr."
+    },
+
+    {
+      "pov" : "The Discarded Knight",
+      "numeral" : "I",
+      "summary" : "Barristan is at court when the Yunkai throw Groleo's head. He warns Quentyn to flee Meereen."
+    },
+
+    {
+      "pov" : "The Kingbreaker",
+      "numeral" : "I",
+      "summary" : "Barristan and Shavepate start their coup. He defeats Khrazz and arrests Hizdahr. Reznak says the dragons have been loosed."
+    }
+  ],
+
+  "AFFC" : [
+    {
+      "pov" : "Cersei",
+      "numeral" : "I"
+    },
+
+    {
+      "pov" : "Jaime",
+      "numeral" : "I"
+    }
+  ]
+}

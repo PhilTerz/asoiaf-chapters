@@ -1,0 +1,27 @@
+{
+  "name": "asoiaf-chapters",
+  "version": "1.0.0",
+  "description": "Get a chapter from ASOIAF",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilTerz/asoiaf-chapters.git"
+  },
+  "keywords": [
+    "asoiaf",
+    "chapter"
+  ],
+  "author": "Philip Terzic <philip@terzic.com> (http://terzic.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhilTerz/asoiaf-chapters/issues"
+  },
+  "homepage": "https://github.com/PhilTerz/asoiaf-chapters#readme",
+  "dependencies": {
+    "json-query": "2.1.0",
+    "unique-random-array": "1.0.0"
+  }
+}
